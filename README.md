@@ -6,7 +6,7 @@
 адаптивные интерфейсы, производительность и удобство пользователей.
 
 Работаю с WordPress, 1С-Битрикс, Drupal, MODX и OpenCart.
-Развиваюсь в направлении TypeScript, React и Next.js.
+Развиваюсь в направлении TypeScript, React.
 
 ## Технологии
 
@@ -35,7 +35,7 @@
 
 **Стек:** WordPress, WooCommerce, PHP, JavaScript, SCSS.
 
-[Посмотреть сайт](https://example.com)
+[Посмотреть сайт]([https://example.com](https://тканимаркет.рф/))
 
 ---
 
@@ -53,7 +53,7 @@
 
 **Стек:** 1С-Битрикс, PHP, JavaScript, AJAX, MySQL.
 
-[Описание проекта](ссылка-на-репозиторий)
+[Описание проекта]([ссылка-на-репозиторий](https://77.222.37.46/mag))
 
 ---
 
@@ -72,5 +72,4 @@
 
 - Telegram: [@Gannshe](https://t.me/Gannshe)
 - Email: [Gannshe@vk.com](mailto:Gannshe@vk.com)
-- Резюме: [PDF](ссылка)
-- Портфолио: [website.ru](https://website.ru)
+- Резюме: [PDF]([ссылка](https://changellenge.com/resume-shared/?token=0b5168a9464617a81a279ce9804c64bcf97c86184179521fa71a73e2a9d945e6))
