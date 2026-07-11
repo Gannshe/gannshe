@@ -1,16 +1,76 @@
-## Hi there 👋
+# Максим Булычев
 
-<!--
-**Gannshe/gannshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend / Web Developer
 
-Here are some ideas to get you started:
+Разрабатываю коммерческие сайты и интернет-магазины с акцентом на
+адаптивные интерфейсы, производительность и удобство пользователей.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Работаю с WordPress, 1С-Битрикс, Drupal, MODX и OpenCart.
+Развиваюсь в направлении TypeScript, React и Next.js.
+
+## Технологии
+
+- JavaScript, HTML5, CSS3, SCSS
+- jQuery
+- WordPress, WooCommerce
+- 1С-Битрикс
+- Drupal, MODX, OpenCart
+- PHP, REST API, MySQL
+- Git, Figma
+- Technical SEO, PageSpeed, Core Web Vitals
+
+## Избранные проекты
+
+### Интернет-магазин на WordPress
+
+Разработка с нуля на основе собственной темы без конструкторов.
+
+**Что реализовано:**
+
+- адаптивная верстка;
+- каталог и карточки товаров;
+- корзина и оформление заказа;
+- интеграция доставки и аналитики;
+- техническая SEO-оптимизация.
+
+**Стек:** WordPress, WooCommerce, PHP, JavaScript, SCSS.
+
+[Посмотреть сайт](https://example.com)
+
+---
+
+### Интернет-магазин на 1С-Битрикс
+
+Доработка каталога, корзины, личного кабинета и оформления заказа.
+
+**Что реализовано:**
+
+- кастомные шаблоны компонентов;
+- динамическое обновление корзины;
+- фильтрация каталога;
+- интеграция внешних сервисов;
+- оптимизация производительности.
+
+**Стек:** 1С-Битрикс, PHP, JavaScript, AJAX, MySQL.
+
+[Описание проекта](ссылка-на-репозиторий)
+
+---
+
+### Миграция Drupal → WordPress
+
+Перенос сайтов с сохранением структуры, контента и SEO-параметров.
+
+**Результат:**
+
+- сохранены основные URL;
+- устранены технические ошибки;
+- улучшена скорость загрузки;
+- повышены позиции по части поисковых запросов.
+
+## Контакты
+
+- Telegram: [@Gannshe](https://t.me/Gannshe)
+- Email: [Gannshe@vk.com](mailto:Gannshe@vk.com)
+- Резюме: [PDF](ссылка)
+- Портфолио: [website.ru](https://website.ru)
